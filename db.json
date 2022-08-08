@@ -1,0 +1,28 @@
+{
+  "settings": [
+    {
+      "id": 1,
+      "icons":"computer_icon ",
+      "title": "Website Re-designed",
+      "author": "Workforce HTML CSS Template is a mobile friendly site design layout with animated transitions. You can feel free to download and edit this for your sites.json-server"
+    },
+    {
+      "id": 2,
+      "icons":"adb_icon ",
+      "title": "New Mobile App",
+      "author": "Please spread a word to your friends about templatemo site. It would be helpful. Credit goes to Pixabay for images used in this template."
+    },
+    {
+      "id": 3,
+      "icons":"telegram_icon",
+      "title": "Digital Marketing",
+      "author": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. Dolore magna aliquam erat volutpat."
+    },
+    {
+      "id": 4,
+      "icons":"css_icon",
+      "title": "Coding HTML5 & CSS3",
+      "author": "This is a CSS layout with Bootstrap v3.3.4 kit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt."
+    }
+  ]
+}
